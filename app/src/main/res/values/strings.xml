@@ -1,0 +1,7 @@
+<resources>
+        <string name="app_name">Firebase Authentication</string>
+        <string name="logo">Погода у вашому місті</string>
+        <string name="hint_user_field">Введіть місто</string>
+        <string name="main_btn">Дізнатися погоду</string>
+        <string name="no_user_input">Введіть текст</string>
+    </resources>
